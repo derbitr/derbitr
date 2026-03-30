@@ -21,13 +21,6 @@ Me chamo Breno Luiz Nascimento dos Santos, tenho 22 anos e sou natural do Rio de
             src="https://custom-icon-badges.demolab.com/github/stars/derbitr?color=00000c&style=for-the-badge&labelColor=111&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/derbitr?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/derbitr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
